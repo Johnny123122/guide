@@ -8,7 +8,7 @@ Sometimes when using commands you may want to get data from the user, and change
 
 ## String arguments
 
-A `string` argument is simply the text after the command name and prefix. For example: `?say Hi there!` would cause the argument to be `Hi there!`. It's quite simple to create one.
+A `string` argument is simpthe text after the command name and prefix. For example: `?say Hi there!` would cause the argument to be `Hi there!`. It's quite simple to create one.
 
 First, go into your `first` folder and make a new file called `say.js`. Once you have it, set up your command class and everything just like the one in the meow command.
 
